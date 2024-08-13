@@ -1,0 +1,88 @@
+body {
+    background-image: url("FONREG.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+ .bt {
+    text-align: center;
+    width: 450px;
+    background-color: white;
+    color: gray;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 10%;
+    border: 3px solid white;
+    transition: all 0.1s;
+}
+.bt:hover {
+    border: 3px solid black;
+}
+.bt1 {
+    text-align: center;
+    width: 450px;
+    background-color: white;
+    color: gray;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 3%;
+    border: 3px solid white;
+    transition: all 0.1s;
+}
+.bt1:hover {
+    border: 3px solid black;
+}
+.bt2 {
+    text-align: center;
+    width: 450px;
+    background-color: white;
+    color: gray;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 3%;
+    border: 3px solid white;
+    transition: all 0.1s;
+}
+.bt2:hover {
+    border: 3px solid black;
+}
+.bt3 {
+    text-align: center;
+    width: 450px;
+    background-color: white;
+    color: gray;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 3%;
+    border: 3px solid white;
+    transition: all 0.1s;
+}
+.bt3:hover {
+    border: 3px solid black;
+}
+.bt4 {
+    text-align: center;
+    width: 450px;
+    background-color: transparent;
+    color: white;
+    height: 70px;
+    border-radius: 50px;
+    font-size: 35px;
+    margin-left: 600px;
+    margin-top: 3%;
+    border: 3px solid transparent;
+    transition: all 0.1s;
+}
+.bt4:hover {
+    border: 3px solid black;
+}
+

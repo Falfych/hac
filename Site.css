@@ -1,0 +1,126 @@
+.VHOD {
+margin-left: 940%;
+margin-top: 10px;
+font-size: 240%;
+background-color: transparent;
+border-color: transparent;
+color: white;
+cursor: pointer;
+}
+.container {
+background-image: url(toppl.png);
+border-color: transparent;
+width: 80%;
+height: 75px;
+display: flex;
+
+margin-left: 10%;
+padding: 10px;
+background-repeat: no-repeat;
+}
+.plash{
+    background-image: url(BU.png);
+    border-color: transparent;
+    height: 500px;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.BUY{
+    border: 4px solid transparent;
+    color: transparent;
+    width: 570px;
+    height: 450px;
+    background-color: transparent;
+    border-radius: 50px;
+}
+.RRR{
+    background-image: url(TEST.png);
+    border-color: transparent;
+    height: 1000px;
+    display: flex;
+    background-repeat: no-repeat;
+    width: 50%;
+    margin-right: 130px;
+    margin-top: 40px;
+}
+.TESTTT{
+    border: 4px solid transparent;
+    color: transparent;
+    width: 645px;
+    height: 950px;
+    background-color: transparent;
+    border-radius: 50px;
+
+}
+.LOL{
+    background-image: url(KUPI.png);
+    border-color: transparent;
+    height: 500px;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.Pers{
+    border: 4px solid transparent;
+    color: transparent;
+    width: 570px;
+    height: 450px;
+    background-color: transparent;
+    border-radius: 50px;
+
+}
+.HM{
+    margin-left: 10%;
+
+}
+.FT{
+    display: flex;
+}
+.MH{
+    margin-left: 13%;
+
+}
+.YU{
+    margin-left: 13%;
+
+}
+.ALL{
+    display: flex;
+    flex-direction: row;
+}
+.Left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.TEXT{
+    display: flex;
+    text-align: center;
+}
+.T3{
+    margin-left: 200px;
+}
+.T2{
+    margin-left: 250px;
+}
+.T1{
+    margin-left: 170px;
+}
+.KART{
+    border-color: transparent;
+    height: 700px;
+    width: 500px;
+    display: flex;
+    background-repeat: no-repeat;
+}
+.I1{
+    height: 700px; 
+    width: 700px;
+}
+.T5{
+    text-align: left;
+   margin-top: 200px;
+
+}
+
